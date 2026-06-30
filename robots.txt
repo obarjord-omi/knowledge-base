@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://obarjord-omi.github.io/knowledge-base/sitemap.xml
